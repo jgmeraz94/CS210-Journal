@@ -1,0 +1,5 @@
+﻿  Clock.cpp
+  main.cpp
+A:\Visual Studio Community\Source\Repos\Juan Gonzalez CS 210 Project 1\Juan Gonzalez CS 210 Project 1\main.cpp(18,26): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+  Juan Gonzalez CS 210 Project 1.vcxproj -> A:\Visual Studio Community\Source\Repos\Juan Gonzalez CS 210 Project 1\x64\Debug\Juan Gonzalez CS 210 Project 1.exe
